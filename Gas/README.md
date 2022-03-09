@@ -4,7 +4,7 @@
 2. Run ` npm i` to install the dependencies
 3. Run ` npx hardhat test` to run the tests and get a gas usage report
 
-![](https://i.imgur.com/a/q3RjSjw)
+![](https://imgur.com/a/q3RjSjw.jpg)
 
 The aim of the game is to reduce the Average figures for contract deployment and transfer and updatePayment functions as much as possible.
 
